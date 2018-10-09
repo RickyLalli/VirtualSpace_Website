@@ -55,7 +55,15 @@ body {
 }
 
 .blog {
+  margin-top: 3rem;
+}
+
+.grey {
   background-color: #e9ecef;
+}
+
+.white {
+  background-color: white;
 }
 
 /* navigation bar */

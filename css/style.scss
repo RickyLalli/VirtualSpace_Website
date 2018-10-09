@@ -91,7 +91,16 @@ body {
 //   blog
 
 .blog {
-	background-color: $blog-color;
+  margin-top: 3rem;
+	
+}
+
+.grey {
+  background-color: $blog-color;
+}
+
+.white {
+  background-color: white;
 }
 
 
