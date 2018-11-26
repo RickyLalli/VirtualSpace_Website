@@ -54,9 +54,6 @@ body {
   /* line-height: 32px; */
 }
 
-.blog {
-  margin-top: 3rem;
-}
 
 .grey {
   background-color: #e9ecef;
@@ -168,6 +165,11 @@ ul.nav a:hover {
   border-radius: 50% !important;
   width: 200px;
   border: solid 4px #daad86;
+}
+
+/* temp add to scss */
+.body {
+  min-height: 100px;
 }
 
 /*# sourceMappingURL=style.css.map */
