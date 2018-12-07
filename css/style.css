@@ -54,6 +54,10 @@ body {
   /* line-height: 32px; */
 }
 
+.blog {
+  margin-top: 3rem;
+  min-height: 12rem;
+}
 
 .grey {
   background-color: #e9ecef;
@@ -167,9 +171,16 @@ ul.nav a:hover {
   border: solid 4px #daad86;
 }
 
-/* temp add to scss */
 .body {
-  min-height: 100px;
+  min-height: 10rem;
+}
+
+.rotate90 {
+  -webkit-transform: rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  transform: rotate(90deg);
 }
 
 /*# sourceMappingURL=style.css.map */

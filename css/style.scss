@@ -92,7 +92,7 @@ body {
 
 .blog {
   margin-top: 3rem;
-	// min-height: 10rem;
+	min-height: 12rem;
 
 }
 
@@ -220,3 +220,15 @@ body {
 	width: 200px;
 	border: solid 4px $color-three;
   }
+
+  .body {
+    min-height: 10rem;
+  }
+
+  .rotate90 {
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+}
